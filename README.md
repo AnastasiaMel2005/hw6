@@ -31,5 +31,30 @@
 # Часть 2
 ## Задание 1
 
-Топ три частотных модификатора:
-![синонимы](печеньки2012.png)
+Топ три частотных модификатора существительного *question*:
+![question](question1.png)
+***
+
+## Задание 2
+
+СИнонимичные глаголы *estimate* and *assess*
+![question](diff.png)
+
+Оба слова могут употребляться, например, со словами:
+- cost
+- size
+- value
+- damage
+
+Только со словом estimate:
+- population
+- equation
+- crowd
+
+Только со словом assess:
+- progress
+- quality
+- impact
+***
+
+## Бонусное задание
